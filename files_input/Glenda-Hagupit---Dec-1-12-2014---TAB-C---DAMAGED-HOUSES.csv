@@ -1,0 +1,297 @@
+Province,Municipality,TOTALLY,PARTIALLY,TOTAL
+Metro Manila,Manila,47.00,15.00,62.00
+Metro Manila,Pateros,,80.00,80.00
+Ilocos Norte,Batac City,3.00,2.00,5.00
+Bataan,Abucay,36.00,55.00,91.00
+Bataan,Bagac,1.00,50.00,51.00
+Bataan,Balanga,32.00,459.00,491.00
+Bataan,Hermosa,13.00,253.00,266.00
+Bataan,Mariveles,0.00,2.00,2.00
+Bataan,Morong,0.00,61.00,61.00
+Bataan,Orani,0.00,383.00,383.00
+Bataan,Orion,345.00,"1,009.00","1,354.00"
+Bataan,Pilar,76.00,234.00,310.00
+Bataan,Samal,10.00,730.00,740.00
+Bulacan,Bocaue,3.00,2.00,5.00
+Bulacan,City of Malolos,5.00,2.00,7.00
+Bulacan,Hagonoy,33.00,123.00,156.00
+Bulacan,Paombong,,53.00,53.00
+Pampanga,Floridablanca,4.00,36.00,40.00
+Pampanga,Mexico,1.00,3.00,4.00
+Pampanga,Minalin,2.00,11.00,13.00
+Tarlac,Bamban,1.00,0.00,1.00
+Zambales,Botolan,53.00,349.00,402.00
+Zambales,Cabangan,11.00,76.00,87.00
+Zambales,Candelaria,0.00,13.00,13.00
+Zambales,Castillejos,0.00,39.00,39.00
+Zambales,Iba,14.00,25.00,39.00
+Zambales,Masinloc,0.00,10.00,10.00
+Zambales,Palauig,5.00,59.00,64.00
+Zambales,San Felipe,4.00,44.00,48.00
+Zambales,San Marcelino,8.00,128.00,136.00
+Zambales,San Narciso,7.00,42.00,49.00
+Zambales,Sta Cruz,5.00,32.00,37.00
+Zambales,Subic,73.00,88.00,161.00
+Batangas,Agoncillo,140.00,"1,535.00","1,675.00"
+Batangas,Alitagtag,86.00,"1,201.00","1,287.00"
+Batangas,Balete ,175.00,"2,081.00","2,256.00"
+Batangas,Batangas City,121.00,420.00,541.00
+Batangas,Calaca,189.00,"3,231.00","3,420.00"
+Batangas,Calatagan,92.00,"1,150.00","1,242.00"
+Batangas,Cuenca,13.00,"2,289.00","2,302.00"
+Batangas,Ibaan,177.00,"1,355.00","1,532.00"
+Batangas,Lemery,0.00,73.00,73.00
+Batangas,Lian,239.00,"3,050.00","3,289.00"
+Batangas,Lipa City,505.00,"17,635.00","18,140.00"
+Batangas,Mabini,11.00,58.00,69.00
+Batangas,Malvar ,861.00,"2,201.00","3,062.00"
+Batangas,Mataas na Kahoy,103.00,"1,707.00","1,810.00"
+Batangas,Nasugbu,727.00,"7,736.00","8,463.00"
+Batangas,Rosario,480.00,"5,946.00","6,426.00"
+Batangas,San Jose,100.00,"2,423.00","2,523.00"
+Batangas,San Juan,639.00,"8,201.00","8,840.00"
+Batangas,San Nicolas,170.00,"1,398.00","1,568.00"
+Batangas,Sta. Teresita,27.00,970.00,997.00
+Batangas,Taal,197.00,"1,414.00","1,611.00"
+Batangas,Taysan,110.00,739.00,849.00
+Batangas,Tingloy,39.00,256.00,295.00
+Batangas,Tuy,26.00,380.00,406.00
+Laguna,Alaminos,120.00,80.00,200.00
+Laguna,Bay,"1,667.00",0.00,"1,667.00"
+Laguna,Biñan,468.00,"1,908.00","2,376.00"
+Laguna,Calamba City,567.00,"2,492.00","3,059.00"
+Laguna,Calauan,369.00,"3,040.00","3,409.00"
+Laguna,Cavinti,125.00,"1,480.00","1,605.00"
+Laguna,Famy,17.00,423.00,440.00
+Laguna,Liliw,158.00,939.00,"1,097.00"
+Laguna,Los Baños,767.00,"4,371.00","5,138.00"
+Laguna,Luisiana,351.00,"1,876.00","2,227.00"
+Laguna,Mabitac,16.00,162.00,178.00
+Laguna,Magdalena,315.00,"1,510.00","1,825.00"
+Laguna,Majayjay,371.00,"1,358.00","1,729.00"
+Laguna,Nagcarlan,440.00,522.00,962.00
+Laguna,Paete,13.00,313.00,326.00
+Laguna,Pakil,225.00,"1,054.00","1,279.00"
+Laguna,Pagsanjan,265.00,"1,671.00","1,936.00"
+Laguna,Pila,40.00,62.00,102.00
+Laguna,Rizal,440.00,"2,270.00","2,710.00"
+Laguna,San Pablo,"4,758.00","15,131.00","19,889.00"
+Laguna,San Pedro,82.00,507.00,589.00
+Laguna,Siniloan,200.00,150.00,350.00
+Laguna,Sta. Cruz,684.00,"4,578.00","5,262.00"
+Laguna,Sta. Maria,36.00,259.00,295.00
+Laguna,Sta. Rosa,"1,023.00","2,927.00","3,950.00"
+Laguna,Victoria,75.00,385.00,460.00
+Cavite,Alfonso,153.00,682.00,835.00
+Cavite,Bacoor City,586.00,"9,188.00","9,774.00"
+Cavite,Carmona,74.00,792.00,866.00
+Cavite,Cavite City,583.00,"4,753.00","5,336.00"
+Cavite,Dasmariñas,65.00,"1,552.00","1,617.00"
+Cavite,G.M.A.,74.00,765.00,839.00
+Cavite,General Trias,137.00,950.00,"1,087.00"
+Cavite,Indang,"1,260.00","2,917.00","4,177.00"
+Cavite,Kawit,40.00,"1,870.00","1,910.00"
+Cavite,Maragondon,10.00,453.00,463.00
+Cavite,Naic,20.00,884.00,904.00
+Cavite,Noveleta,35.00,547.00,582.00
+Cavite,Rosario,74.00,0.00,74.00
+Cavite,Silang,134.00,718.00,852.00
+Cavite,Tagaytay,272.00,"4,398.00","4,670.00"
+Cavite,Tanza,114.00,"2,816.00","2,930.00"
+Cavite,Ternate,"2,226.00",644.00,"2,870.00"
+Cavite,Trece Martires,293.00,"2,192.00","2,485.00"
+Rizal,Antipolo City,140.00,"1,316.00","1,456.00"
+Rizal,"Inarawan, Antipolo",63.00,734.00,797.00
+Rizal,Baras,10.00,15.00,25.00
+Rizal,Binangonan,245.00,"1,022.00","1,267.00"
+Rizal,Cardona,,9.00,9.00
+Rizal,Pililia,70.00,352.00,422.00
+Rizal,Rodriguez,29.00,11.00,40.00
+Rizal,San Mateo,23.00,23.00,46.00
+Rizal,Tanay,24.00,13.00,37.00
+Rizal,Taytay,3.00,26.00,29.00
+Rizal,Teresa,2.00,5.00,7.00
+Quezon,Agdangan,"1,322.00","1,296.00","2,618.00"
+Quezon,Alabat,142.00,"1,783.00","1,925.00"
+Quezon,Atimonan,"1,388.00","4,504.00","5,892.00"
+Quezon,Buenavista,657.00,"2,751.00","3,408.00"
+Quezon,Calauag,"1,249.00","5,814.00","7,063.00"
+Quezon,Candelaria,563.00,"8,190.00","8,753.00"
+Quezon,Catanauan,"1,687.00","3,500.00","5,187.00"
+Quezon,Dolores,591.00,"3,374.00","3,965.00"
+Quezon,General Luna,500.00,700.00,"1,200.00"
+Quezon,Guinayangan,"1,083.00","4,052.00","5,135.00"
+Quezon,Gumaca,"1,388.00","2,328.00","3,716.00"
+Quezon,Infanta,1.00,88.00,89.00
+Quezon,Lopez,"2,866.00","9,413.00","12,279.00"
+Quezon,Lucena City,"3,087.00","10,598.00","13,685.00"
+Quezon,Macalelon,733.00,"2,042.00","2,775.00"
+Quezon,Malunay,56.00,145.00,201.00
+Quezon,Mauban,935.00,"6,388.00","7,323.00"
+Quezon,Pagbilao,213.00,"4,735.00","4,948.00"
+Quezon,Perez,172.00,883.00,"1,055.00"
+Quezon,Pitogo,"1,254.00","3,669.00","4,923.00"
+Quezon,Plaridel,308.00,943.00,"1,251.00"
+Quezon,Quezon,189.00,"1,960.00","2,149.00"
+Quezon,Real ,61.00,"1,478.00","1,539.00"
+Quezon,Sampaloc,59.00,892.00,951.00
+Quezon,San Andres,82.00,"2,047.00","2,129.00"
+Quezon,San Antonio,631.00,"2,427.00","3,058.00"
+Quezon,San Francisco,47.00,264.00,311.00
+Quezon,Sariaya,"8,564.00","1,805.00","10,369.00"
+Quezon,Tagkawayan ,781.00,"4,346.00","5,127.00"
+Quezon,Tayabas City ,934.00,"3,959.00","4,893.00"
+Quezon,Tiaong ,"1,781.00","10,765.00","12,546.00"
+Quezon,Unisan,"1,378.00","2,818.00","4,196.00"
+Marinduque,Sta. Cruz,1.00,12.00,13.00
+Marinduque,Mogpog,3.00,25.00,28.00
+Marinduque,Boac,18.00,440.00,458.00
+Marinduque,Gasan,9.00,289.00,298.00
+Marinduque,Buenavista,8.00,265.00,273.00
+Occidental Mindoro,Abra de Ilog,6.00,134.00,140.00
+Occidental Mindoro,Calintaan,7.00,"2,120.00","2,127.00"
+Occidental Mindoro,Looc,3.00,10.00,13.00
+Occidental Mindoro,Lubang,4.00,15.00,19.00
+Occidental Mindoro,Magsaysay,3.00,82.00,85.00
+Occidental Mindoro,Mamburao,2.00,67.00,69.00
+Occidental Mindoro,Palauan,1.00,5.00,6.00
+Occidental Mindoro,Rizal,6.00,136.00,142.00
+Occidental Mindoro,Sablayan,3.00,394.00,397.00
+Occidental Mindoro,San Jose,18.00,"2,501.00","2,519.00"
+Occidental Mindoro,Sta. Cruz,3.00,19.00,22.00
+Oriental Mindoro,Baco,5.00,127.00,132.00
+Oriental Mindoro,Mansalay ,2.00,16.00,18.00
+Oriental Mindoro,Naujan,7.00,159.00,166.00
+Oriental Mindoro,Puerto Galera,13.00,42.00,55.00
+Oriental Mindoro,San Teodoro,3.00,43.00,46.00
+Romblon,Cajidiocan,1.00,1.00,2.00
+Romblon,Caltrava ,2.00,23.00,25.00
+Romblon,Ferrol,1.00,3.00,4.00
+Romblon,Looc ,1.00,1.00,2.00
+Romblon,Magdiwang,3.00,144.00,147.00
+Romblon,Odiongan,1.00,1.00,2.00
+Romblon,San Agustin ,4.00,17.00,21.00
+Romblon,Sta. Fe,2.00,6.00,8.00
+Romblon,Sta. Maria,1.00,12.00,13.00
+Albay,Daraga,91.00,,91.00
+Albay,Sto. Domingo,215.00,"1,649.00","1,864.00"
+Albay,Guinobatan,320.00,"2,086.00","2,406.00"
+Albay,Jovellar ,200.00,365.00,565.00
+Albay,Legaspi City,330.00,"1,372.00","1,702.00"
+Albay,Libon,96.00,285.00,381.00
+Albay,Ligao City,53.00,519.00,572.00
+Albay,Malinao,"1,722.00","6,318.00","8,040.00"
+Albay,Manito,513.00,"2,299.00","2,812.00"
+Albay,Tiwi,"1,235.00","5,027.00","6,262.00"
+Camarines Sur,Baao,394.00,"1,807.00","2,201.00"
+Camarines Sur,Balataan,250.00,"2,550.00","2,800.00"
+Camarines Sur,Buhi,"1,193.00","6,528.00","7,721.00"
+Camarines Sur,Bula,934.00,"4,842.00","5,776.00"
+Camarines Sur,Cabusao,696.00,"2,152.00","2,848.00"
+Camarines Sur,Calabanga,"1,189.00","4,556.00","5,745.00"
+Camarines Sur,Camaligan,227.00,"1,679.00","1,906.00"
+Camarines Sur,Canaman,"1,036.00","3,062.00","4,098.00"
+Camarines Sur,Del Gallego,295.00,"2,602.00","2,897.00"
+Camarines Sur,Gainza,382.00,"1,494.00","1,876.00"
+Camarines Sur,Garchitorrena ,20.00,3.00,23.00
+Camarines Sur,Goa,378.00,"2,186.00","2,564.00"
+Camarines Sur,Iriga city,780.00,"4,118.00","4,898.00"
+Camarines Sur,Lagonoy,170.00,968.00,"1,138.00"
+Camarines Sur,Libmanan,"3,340.00","12,526.00","15,866.00"
+Camarines Sur,Lupi,315.00,"3,567.00","3,882.00"
+Camarines Sur,Magarao,578.00,"2,230.00","2,808.00"
+Camarines Sur,Milaor ,372.00,"2,860.00","3,232.00"
+Camarines Sur,Minabalac,"1,189.00","4,556.00","5,745.00"
+Camarines Sur,Nabua,"1,314.00","7,009.00","8,323.00"
+Camarines Sur,Naga City,284.00,"1,896.00","2,180.00"
+Camarines Sur,Ocampo,"1,138.00","5,152.00","6,290.00"
+Camarines Sur,Pamplona,"1,191.00","4,069.00","5,260.00"
+Camarines Sur,Pili ,"1,511.00","5,162.00","6,673.00"
+Camarines Sur,Presentation,241.00,"1,910.00","2,151.00"
+Camarines Sur,Ragay,"1,546.00","8,259.00","9,805.00"
+Camarines Sur,San Fernando,"5,273.00","4,475.00","9,748.00"
+Camarines Sur,San Jose,729.00,"4,114.00","4,843.00"
+Camarines Sur,Sangay,"1,274.00","5,068.00","6,342.00"
+Camarines Sur,Sipocot,"1,219.00","6,354.00","7,573.00"
+Camarines Sur,Siruma,35.00,705.00,740.00
+Camarines Sur,Tinambac,195.00,"5,378.00","5,573.00"
+Camarines Norte,Basud ,118.00,"1,639.00","1,757.00"
+Camarines Norte,Capalonga,824.00,"1,285.00","2,109.00"
+Camarines Norte,Daet,57.00,775.00,832.00
+Camarines Norte,Jose Panganiban,,51.00,51.00
+Camarines Norte,Labo,87.00,"1,593.00","1,680.00"
+Camarines Norte,Mercedes ,183.00,698.00,881.00
+Camarines Norte,Paracale,14.00,151.00,165.00
+Camarines Norte,San Lorenzo Ruiz,7.00,341.00,348.00
+Camarines Norte,San Vicente,11.00,124.00,135.00
+Camarines Norte,Sta. Elena,161.00,"2,645.00","2,806.00"
+Camarines Norte,Talisay,82.00,999.00,"1,081.00"
+Camarines Norte,Vinzons,73.00,868.00,941.00
+Catanduanes,Baras,4.00,81.00,85.00
+Catanduanes,Viga,21.00,16.00,37.00
+Catanduanes,Virac,73.00,766.00,839.00
+Masbate,Dimasalang,4.00,31.00,35.00
+Masbate,Mobo,10.00,121.00,131.00
+Masbate,Monreal,77.00,574.00,651.00
+Masbate,Cawayan,123.00,14.00,137.00
+Masbate,San Jacinto,16.00,74.00,90.00
+Masbate,San Pascual,53.00,455.00,508.00
+Masbate,Uson ,,10.00,10.00
+Sorsogon,Barcelona ,282.00,"1,917.00","2,199.00"
+Sorsogon,Bulusan,225.00,"2,833.00","3,058.00"
+Sorsogon,Bulan,218.00,"1,171.00","1,389.00"
+Sorsogon,Casiguran,418.00,"2,820.00","3,238.00"
+Sorsogon,Castilla,271.00,"1,433.00","1,704.00"
+Sorsogon,Gubat,"1,170.00","2,008.00","3,178.00"
+Sorsogon,Irosin,405.00,18.00,423.00
+Sorsogon,Juban,413.00,"2,357.00","2,770.00"
+Sorsogon,Pilar,571.00,"4,405.00","4,976.00"
+Sorsogon,Prieto Diaz,896.00,"3,533.00","4,429.00"
+Sorsogon,Matnog,128.00,"1,721.00","1,849.00"
+Northern Samar,Allen,316.00,284.00,600.00
+Northern Samar,Biri,350.00,"1,634.00","1,984.00"
+Northern Samar,Bobon,350.00,"1,634.00","1,984.00"
+Northern Samar,Capul,18.00,356.00,374.00
+Northern Samar,Catarman,18.00,398.00,416.00
+Northern Samar,Catubig,156.00,"2,174.00","2,330.00"
+Northern Samar,Gamay,153.00,850.00,"1,003.00"
+Northern Samar,Laoang,"1,186.00","7,200.00","8,386.00"
+Northern Samar,Lapinig,50.00,"1,442.00","1,492.00"
+Northern Samar,Las Navas,3.00,610.00,613.00
+Northern Samar,Lavezares,176.00,"2,077.00","2,253.00"
+Northern Samar,Lope de Vega,4.00,130.00,134.00
+Northern Samar,Mapanas,339.00,"1,245.00","1,584.00"
+Northern Samar,Mondragon,682.00,"6,155.00","6,837.00"
+Northern Samar,Palapag,434.00,"6,340.00","6,774.00"
+Northern Samar,Pambujan,582.00,"2,833.00","3,415.00"
+Northern Samar,Rosario,27.00,249.00,276.00
+Northern Samar,San Antonio,51.00,391.00,442.00
+Northern Samar,San Isidro,81.00,276.00,357.00
+Northern Samar,San Jose,"1,015.00","2,125.00","3,140.00"
+Northern Samar,San Roque,555.00,564.00,"1,119.00"
+Northern Samar,San Vicente,21.00,143.00,164.00
+Northern Samar,Silvino Lobos,,522.00,522.00
+Northern Samar,Victoria,41.00,132.00,173.00
+Eastern Samar,San Policarpio,124.00,727.00,851.00
+Eastern Samar,Arteche,106.00,"1,960.00","2,066.00"
+Eastern Samar,Jipapad,10.00,450.00,460.00
+Samar,Catbalogan City,585.00,"2,485.00","3,070.00"
+Samar,Calbayog City,264.00,"3,185.00","3,449.00"
+Samar (Western),Almagro,21.00,250.00,271.00
+Samar (Western),Calbiga,,366.00,366.00
+Samar (Western),Daram,364.00,"2,662.00","3,026.00"
+Samar (Western),Gandara,58.00,"3,578.00","3,636.00"
+Samar (Western),Hinabangan,15.00,350.00,365.00
+Samar (Western),Jiabong,93.00,129.00,222.00
+Samar (Western),Motiong,50.00,0.00,50.00
+Samar (Western),Paranas,6.00,132.00,138.00
+Samar (Western),Pinabacdao,253.00,671.00,924.00
+Samar (Western),Pagsangjan,,300.00,300.00
+Samar (Western),San Jorge ,16.00,587.00,603.00
+Samar (Western),Sta. Margarita,339.00,"1,878.00","2,217.00"
+Samar (Western),Sta. Rita,24.00,164.00,188.00
+Samar (Western),San Sebastian,12.00,871.00,883.00
+Samar (Western),Sto. Nino,6.00,63.00,69.00
+Samar (Western),Tarangan,160.00,32.00,192.00
+Samar (Western),Villareal,251.00,"1,530.00","1,781.00"
+Samar (Western),Talolora,31.00,97.00,128.00
